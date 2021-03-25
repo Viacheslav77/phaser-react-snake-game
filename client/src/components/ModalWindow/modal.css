@@ -1,0 +1,25 @@
+.modal-window {
+  background-color: #f8f9fa;
+  position: absolute;
+  left: calc(50% - 350px);
+  top: calc(50% - 250px);
+  z-index: 999;
+  width: 700px;
+  height: 500px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 3px 0px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+}
+
+.modal-close-icon {
+  position: absolute;
+  top: 5px;
+  right: 7px;
+  font-size: 20px;
+  color: darkgrey;
+  transition: 0.3s;
+}
+
+.modal-close-icon:hover {
+  color: black;
+}

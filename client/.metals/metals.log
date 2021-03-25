@@ -1,0 +1,7 @@
+[0m2021.03.24 09:51:22 INFO  Started: Metals version 0.10.0 in workspace 'D:\IdeaProjects\mail-app-master' for client vscode 1.54.3.[0m
+[0m2021.03.24 09:51:35 INFO  time: initialize in 12s[0m
+[0m2021.03.24 09:51:41 WARN  Build server is not auto-connectable.[0m
+[0m2021.03.24 09:51:41 WARN  no build tool detected in workspace 'D:\IdeaProjects\mail-app-master'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+мар. 24, 2021 10:58:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.03.24 11:03:11 INFO  shutting down Metals[0m
